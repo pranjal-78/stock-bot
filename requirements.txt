@@ -1,0 +1,15 @@
+# Core dependencies for Stock Prediction Chatbot
+streamlit>=1.28.0
+yfinance>=0.2.18
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.15.0
+spacy>=3.6.0
+scikit-learn>=1.3.0
+
+# spaCy English language model
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0/en_core_web_sm-3.6.0-py3-none-any.whl
+
+# Additional dependencies that might be needed
+requests>=2.31.0
+urllib3>=2.0.0
